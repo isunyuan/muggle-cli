@@ -1,17 +1,16 @@
 {
-  "name": "muggle",
-  "version": "1.0.0",
-  "description": "react cli",
+  "name": "muggle-cli",
+  "version": "1.0.1",
+  "description": "通过预配置的方式，快速创建项目模板",
+  "keywords": ["cli", "muggle", "template", "react"],
   "main": "index.js",
   "githubUserName": "isunyuan",
   "bin": {
     "muggle": "./bin/cli.js"
   },
-  "scripts": {
-    "publish": "npx standard-version && npm publish"
-  },
+  "scripts": {},
   "author": {
-    "name": "Muggle",
+    "name": "isunyuan",
     "email": "email@isunyuan.com"
   },
   "license": "MIT",
