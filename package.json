@@ -1,6 +1,6 @@
 {
   "name": "muggle-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "通过预配置的方式，快速创建项目模板",
   "keywords": ["cli", "muggle", "template", "react"],
   "main": "index.js",
