@@ -1,6 +1,6 @@
 {
   "name": "muggle-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "通过预配置的方式，快速创建项目模板",
   "keywords": ["muggle", "cli", "template", "react", "quick"],
   "main": "index.js",
@@ -12,6 +12,13 @@
   "author": {
     "name": "isunyuan",
     "email": "email@isunyuan.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isunyuan/muggle-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/isunyuan/muggle-cli/issues"
   },
   "license": "MIT",
   "dependencies": {
