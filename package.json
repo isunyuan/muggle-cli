@@ -1,8 +1,8 @@
 {
   "name": "muggle-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "通过预配置的方式，快速创建项目模板",
-  "keywords": ["cli", "muggle", "template", "react"],
+  "keywords": ["muggle", "cli", "template", "react", "quick"],
   "main": "index.js",
   "githubUserName": "isunyuan",
   "bin": {
